@@ -1,7 +1,5 @@
 {
-  'Access-Control-Allow-Origin': '*', 
-}
-{
+    'Access-Control-Allow-Origin': '*', 
     "nodes":[
         {
             "id":"0",
